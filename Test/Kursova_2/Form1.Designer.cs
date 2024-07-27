@@ -89,8 +89,8 @@
             this.pictureBox3.TabIndex = 2;
             this.pictureBox3.TabStop = false;
             this.pictureBox3.Click += new System.EventHandler(this.pictureBox3_Click);
-            this.pictureBox3.MouseEnter += new System.EventHandler(this.pictureBox4_MouseEnter);
-            this.pictureBox3.MouseLeave += new System.EventHandler(this.pictureBox4_MouseLeave);
+            this.pictureBox3.MouseEnter += new System.EventHandler(this.pictureBox3_MouseEnter);
+            this.pictureBox3.MouseLeave += new System.EventHandler(this.pictureBox3_MouseLeave);
             // 
             // database1DataSet
             // 
@@ -124,8 +124,8 @@
             this.pictureBox4.TabIndex = 3;
             this.pictureBox4.TabStop = false;
             this.pictureBox4.Click += new System.EventHandler(this.pictureBox4_Click);
-            this.pictureBox4.MouseEnter += new System.EventHandler(this.pictureBox4_MouseEnter);
-            this.pictureBox4.MouseLeave += new System.EventHandler(this.pictureBox4_MouseLeave);
+            this.pictureBox4.MouseEnter += new System.EventHandler(this.pictureBox3_MouseEnter);
+            this.pictureBox4.MouseLeave += new System.EventHandler(this.pictureBox3_MouseLeave);
             // 
             // button1
             // 

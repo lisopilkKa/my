@@ -101,21 +101,42 @@ namespace Kursova_2
         }
         private void pictureBox2_MouseEnter(object sender, EventArgs e)
         {
-            enter(pictureBox2);
+            pictureBox2.Left -= 4;
+            pictureBox2.Top -= 5;
+            pictureBox2.Height += 6;
+            pictureBox2.Width += 6;
         }
 
         private void pictureBox2_MouseLeave(object sender, EventArgs e)
         {
-            leave(pictureBox2);
+            pictureBox2.Left += 4;
+            pictureBox2.Top += 5;
+            pictureBox2.Height -= 6;
+            pictureBox2.Width -= 6;
+            
         }
 
         private void pictureBox4_MouseEnter(object sender, EventArgs e)
         {
+
+
             enter((PictureBox)sender);
         }
 
         private void pictureBox4_MouseLeave(object sender, EventArgs e)
         {
+            leave((PictureBox)sender);
+        }
+
+        private void pictureBox3_MouseEnter(object sender, EventArgs e)
+        {
+
+            enter((PictureBox)sender);
+        }
+
+        private void pictureBox3_MouseLeave(object sender, EventArgs e)
+        {
+
             leave((PictureBox)sender);
         }
     }
