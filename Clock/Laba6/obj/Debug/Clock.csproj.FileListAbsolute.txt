@@ -1,0 +1,13 @@
+C:\Users\Asus\Downloads\Telegram Desktop\часи\Laba6\Laba6\bin\Debug\Laba6.exe.config
+C:\Users\Asus\Downloads\Telegram Desktop\часи\Laba6\Laba6\bin\Debug\Laba6.exe
+C:\Users\Asus\Downloads\Telegram Desktop\часи\Laba6\Laba6\bin\Debug\Laba6.pdb
+C:\Users\Asus\Downloads\Telegram Desktop\часи\Laba6\Laba6\obj\Debug\Clock.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\Telegram Desktop\часи\Laba6\Laba6\obj\Debug\Laba6.Form1.resources
+C:\Users\Asus\Downloads\Telegram Desktop\часи\Laba6\Laba6\obj\Debug\Laba6.Form2.resources
+C:\Users\Asus\Downloads\Telegram Desktop\часи\Laba6\Laba6\obj\Debug\Laba6.Form3.resources
+C:\Users\Asus\Downloads\Telegram Desktop\часи\Laba6\Laba6\obj\Debug\Laba6.Form4.resources
+C:\Users\Asus\Downloads\Telegram Desktop\часи\Laba6\Laba6\obj\Debug\Laba6.Properties.Resources.resources
+C:\Users\Asus\Downloads\Telegram Desktop\часи\Laba6\Laba6\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\Telegram Desktop\часи\Laba6\Laba6\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Telegram Desktop\часи\Laba6\Laba6\obj\Debug\Laba6.exe
+C:\Users\Asus\Downloads\Telegram Desktop\часи\Laba6\Laba6\obj\Debug\Laba6.pdb
