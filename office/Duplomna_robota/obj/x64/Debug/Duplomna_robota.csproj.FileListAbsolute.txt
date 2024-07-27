@@ -1,0 +1,86 @@
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\Spusok_ychniv.accdb
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\Duplomna_robota.exe.config
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\Duplomna_robota.exe
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\Duplomna_robota.pdb
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.csproj.AssemblyReference.cache
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.csproj.SuggestedBindingRedirects.cache
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.Form1.resources
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.Form2.resources
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.Form3.resources
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.Form4.resources
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.Form5.resources
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.Properties.Resources.resources
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.csproj.GenerateResource.cache
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.csproj.CoreCompileInputs.cache
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.exe
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.pdb
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.Form8.resources
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\Duplomna_robota.exe.manifest
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\Duplomna_robota.application
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.exe.manifest
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.application
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.Form6.resources
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.csproj.ResolveComReference.cache
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\ClosedXML.dll
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\ClosedXML.Extensions.AspNet.dll
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\ClosedXML.Report.dll
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\DocumentFormat.OpenXml.dll
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\ExcelNumberFormat.dll
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\MoreLinq.dll
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\System.IO.Packaging.dll
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\System.Linq.Dynamic.Core.dll
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\System.ValueTuple.dll
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\ClosedXML.pdb
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\ClosedXML.xml
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\DocumentFormat.OpenXml.xml
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\ExcelNumberFormat.xml
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\MoreLinq.xml
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\System.Linq.Dynamic.Core.pdb
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\System.Linq.Dynamic.Core.xml
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\bin\x64\Debug\System.ValueTuple.xml
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.csproj.CopyComplete
+D:\HomeWork\Projects\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.Form7.resources
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\Spusok_ychniv.accdb
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\Duplomna_robota.exe.config
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\Duplomna_robota.exe.manifest
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\Duplomna_robota.application
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\Duplomna_robota.exe
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\Duplomna_robota.pdb
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\ClosedXML.dll
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\ClosedXML.Extensions.AspNet.dll
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\ClosedXML.Report.dll
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\DocumentFormat.OpenXml.dll
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\ExcelNumberFormat.dll
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\MoreLinq.dll
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\System.IO.Packaging.dll
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\System.Linq.Dynamic.Core.dll
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\System.ValueTuple.dll
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\ClosedXML.pdb
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\ClosedXML.xml
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\DocumentFormat.OpenXml.xml
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\ExcelNumberFormat.xml
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\MoreLinq.xml
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\System.Linq.Dynamic.Core.pdb
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\System.Linq.Dynamic.Core.xml
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\bin\x64\Debug\System.ValueTuple.xml
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.csproj.AssemblyReference.cache
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.csproj.SuggestedBindingRedirects.cache
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.csproj.ResolveComReference.cache
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.Form1.resources
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.Form2.resources
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.Form4.resources
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.Form5.resources
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.Form6.resources
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.Form8.resources
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.Properties.Resources.resources
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.csproj.GenerateResource.cache
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.csproj.CoreCompileInputs.cache
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.exe.manifest
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.application
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.csproj.CopyComplete
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.exe
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.pdb
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.Form9.resources
+D:\Новая папка (2)\Новая папка (2)\Duplomna_robota\Duplomna_robota\obj\x64\Debug\Duplomna_robota.Form7.resources

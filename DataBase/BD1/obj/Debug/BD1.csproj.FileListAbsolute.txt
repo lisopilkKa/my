@@ -1,0 +1,54 @@
+E:\NANI\programmer\ККККККоды\BD1\BD1\obj\Debug\BD1.csprojAssemblyReference.cache
+E:\NANI\programmer\ККККККоды\BD1\BD1\obj\Debug\BD1.Catalog.resources
+E:\NANI\programmer\ККККККоды\BD1\BD1\obj\Debug\BD1.Character.resources
+E:\NANI\programmer\ККККККоды\BD1\BD1\obj\Debug\BD1.Country.resources
+E:\NANI\programmer\ККККККоды\BD1\BD1\obj\Debug\BD1.Form2.resources
+E:\NANI\programmer\ККККККоды\BD1\BD1\obj\Debug\BD1.Manufacturer.resources
+E:\NANI\programmer\ККККККоды\BD1\BD1\obj\Debug\BD1.Properties.Resources.resources
+E:\NANI\programmer\ККККККоды\BD1\BD1\obj\Debug\BD1.Type.resources
+E:\NANI\programmer\ККККККоды\BD1\BD1\obj\Debug\BD1.Vyd.resources
+E:\NANI\programmer\ККККККоды\BD1\BD1\obj\Debug\BD1.csproj.GenerateResource.cache
+E:\NANI\programmer\ККККККоды\BD1\BD1\obj\Debug\BD1.csproj.CoreCompileInputs.cache
+E:\NANI\programmer\ККККККоды\BD1\BD1\bin\Debug\ЛБ1.accdb
+E:\NANI\programmer\ККККККоды\BD1\BD1\bin\Debug\BD1.exe.config
+E:\NANI\programmer\ККККККоды\BD1\BD1\bin\Debug\BD1.exe
+E:\NANI\programmer\ККККККоды\BD1\BD1\bin\Debug\BD1.pdb
+E:\NANI\programmer\ККККККоды\BD1\BD1\obj\Debug\BD1.exe
+E:\NANI\programmer\ККККККоды\BD1\BD1\obj\Debug\BD1.pdb
+E:\NANI\programmer\БД\BD1\BD1\bin\Debug\ЛБ1.accdb
+E:\NANI\programmer\БД\BD1\BD1\bin\Debug\BD1.exe.config
+E:\NANI\programmer\БД\BD1\BD1\bin\Debug\BD1.exe
+E:\NANI\programmer\БД\BD1\BD1\bin\Debug\BD1.pdb
+E:\NANI\programmer\БД\BD1\BD1\obj\Debug\BD1.csprojAssemblyReference.cache
+E:\NANI\programmer\БД\BD1\BD1\obj\Debug\BD1.Catalog.resources
+E:\NANI\programmer\БД\BD1\BD1\obj\Debug\BD1.Character.resources
+E:\NANI\programmer\БД\BD1\BD1\obj\Debug\BD1.Country.resources
+E:\NANI\programmer\БД\BD1\BD1\obj\Debug\BD1.Form2.resources
+E:\NANI\programmer\БД\BD1\BD1\obj\Debug\BD1.Manufacturer.resources
+E:\NANI\programmer\БД\BD1\BD1\obj\Debug\BD1.Properties.Resources.resources
+E:\NANI\programmer\БД\BD1\BD1\obj\Debug\BD1.Type.resources
+E:\NANI\programmer\БД\BD1\BD1\obj\Debug\BD1.Vyd.resources
+E:\NANI\programmer\БД\BD1\BD1\obj\Debug\BD1.csproj.GenerateResource.cache
+E:\NANI\programmer\БД\BD1\BD1\obj\Debug\BD1.csproj.CoreCompileInputs.cache
+E:\NANI\programmer\БД\BD1\BD1\obj\Debug\BD1.exe
+E:\NANI\programmer\БД\BD1\BD1\obj\Debug\BD1.pdb
+E:\NANI\programmer\БД\BD1\BD1\obj\Debug\BD1.Form1.resources
+E:\NANI\programmer\БД\BD1 — копия\BD1\bin\Debug\ЛБ1.accdb
+E:\NANI\programmer\БД\BD1 — копия\BD1\bin\Debug\BD1.exe.config
+E:\NANI\programmer\БД\BD1 — копия\BD1\bin\Debug\BD1.exe
+E:\NANI\programmer\БД\BD1 — копия\BD1\bin\Debug\BD1.pdb
+E:\NANI\programmer\БД\BD1 — копия\BD1\obj\Debug\BD1.csprojAssemblyReference.cache
+E:\NANI\programmer\БД\BD1 — копия\BD1\obj\Debug\BD1.Catalog.resources
+E:\NANI\programmer\БД\BD1 — копия\BD1\obj\Debug\BD1.Character.resources
+E:\NANI\programmer\БД\BD1 — копия\BD1\obj\Debug\BD1.Country.resources
+E:\NANI\programmer\БД\BD1 — копия\BD1\obj\Debug\BD1.Form1.resources
+E:\NANI\programmer\БД\BD1 — копия\BD1\obj\Debug\BD1.Form2.resources
+E:\NANI\programmer\БД\BD1 — копия\BD1\obj\Debug\BD1.Manufacturer.resources
+E:\NANI\programmer\БД\BD1 — копия\BD1\obj\Debug\BD1.Properties.Resources.resources
+E:\NANI\programmer\БД\BD1 — копия\BD1\obj\Debug\BD1.Type.resources
+E:\NANI\programmer\БД\BD1 — копия\BD1\obj\Debug\BD1.Vyd.resources
+E:\NANI\programmer\БД\BD1 — копия\BD1\obj\Debug\BD1.csproj.GenerateResource.cache
+E:\NANI\programmer\БД\BD1 — копия\BD1\obj\Debug\BD1.csproj.CoreCompileInputs.cache
+E:\NANI\programmer\БД\BD1 — копия\BD1\obj\Debug\BD1.exe
+E:\NANI\programmer\БД\BD1 — копия\BD1\obj\Debug\BD1.pdb
+E:\NANI\programmer\БД\BD1 — копия\BD1\obj\Debug\BD1.Vhid.resources
